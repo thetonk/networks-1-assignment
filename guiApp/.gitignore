@@ -19,7 +19,7 @@ buildNumber.properties
 .classpath
 
 #remove output files
-outputs/*
+#outputs/*
 # ---> Eclipse
 .metadata
 bin/
